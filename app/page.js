@@ -14,7 +14,8 @@ export default function Home() {
             alt="Hing Bottle"
             layout="fill"
             objectFit="contain"
-            className="rounded-xl shadow-md"
+            className="rounded-xl shadow-md w-96"
+            
           />
         </div>
         <div>
