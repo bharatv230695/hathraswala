@@ -10,7 +10,7 @@ export default function Home() {
       <section className="grid md:grid-cols-2 gap-12 items-center mb-20">
         <div className="relative w-full h-96">
           <img
-            src="https://picsum.photos/200/300"
+            src="logo.jpg"
             alt="Hing Bottle"
             layout="fill"
             objectFit="contain"
